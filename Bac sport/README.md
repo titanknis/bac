@@ -12,7 +12,6 @@ Plane mod.
 ~~~
 F3 : rolad avant plangee && jump with hands in the air (up) 
 ~~~
-genage && slide your hands between your legs && touch your legs fingertips
 ~~~
 F4 : rolad ariere l'appui tendu renverse passager
 ~~~
@@ -20,7 +19,8 @@ roue
 ~~~
 F5 : Rondade saut a la vertical 
 ~~~
-π
+genage && slide your hands between your legs && touch your legs fingertips
+rolad ariere jambes ecartee
 ~~~
 F1 : equilibrium (2s) and going back (if failed continue advancing and give another try)
 ~~~

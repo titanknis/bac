@@ -13,7 +13,7 @@ Plane mod.
 ~~~
 F3 : rolad avant plangee && jump with hands in the air (up) 
 ~~~
-rolad ariere jambes ecartee
+2π
 ~~~
 F4 : rolad ariere l'appui tendu renverse passager
 ~~~
@@ -26,7 +26,7 @@ shandell with a bent leg and stand up on one leg
 ~~~
 F1 : equilibrium (2s) and going back (if failed continue advancing and give another try)
 ~~~
-2π
+π(look in the direction of the jury)
 ~~~
 F2 : saut carpe jambs ecartees
 end salue

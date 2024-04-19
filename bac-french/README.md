@@ -22,7 +22,8 @@ quickly try to answer the easy language.
 read and undersand 'le sujet'.
 ~~~
 ~~~
-plan a structure (use the premade template).
+plan a structure (use the premade [template](https://github.com/titanknis/bac/blob/main/bac-french/template.md) | [example](https://github.com/titanknis/bac/blob/main/bac-french/example.md)
+).
 ~~~
 ~~~
 plan what arguments to use .

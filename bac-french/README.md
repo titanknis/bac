@@ -1,3 +1,4 @@
+### comprehention (7 points)
 ~~~
 read the questions.
 ~~~
@@ -11,10 +12,12 @@ reread the questions.
 try to answer what you can (everything if possible).
 ~~~
 
+### Language (3 points)
 ~~~
 quickly try to answer the easy language.
 ~~~
 
+### Paragraph (10 points)
 ~~~
 read and undersand 'le sujet'.
 ~~~

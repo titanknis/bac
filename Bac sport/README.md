@@ -9,7 +9,7 @@ salue
 3 pas gymnique
 Scissors jump.
 Plane mod.
-2 pas ariere.
+rolad avant and directly do the next step.
 ~~~
 F3 : rolad avant plangee && jump with hands in the air (up) 
 ~~~

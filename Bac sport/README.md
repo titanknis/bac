@@ -5,8 +5,7 @@
 [Download the PDF](https://github.com/titanknis/bacsport/raw/main/bacsport.pdf)
 ### salue
 
-salue
-3 pas gymnique
+3 pas gymnique.
 Scissors jump.
 Plane mod.
 rolad avant and directly do the next step.

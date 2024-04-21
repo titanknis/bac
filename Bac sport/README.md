@@ -2,7 +2,7 @@
 
 [![Video 2](https://img.youtube.com/vi/7kOdyMaK0cg/0.jpg)](https://youtu.be/7kOdyMaK0cg)
 
-[Download the PDF](https://github.com/titanknis/bac/tree/main/Bac%20sport)
+[Download the PDF](https://github.com/titanknis/bac/blob/main/Bac%20sport/bacsport.pdf)
 ### salue
 
 3 pas gymnique.

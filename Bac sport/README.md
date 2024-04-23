@@ -18,7 +18,7 @@ F4 : rolad ariere l'appui tendu renverse passager
 ~~~
 rolad ariere jambes ecartes
 ~~~
-F1 : equilibrium (2s) and (if failed continue advancing and give another try)
+F1 : equilibrium (2s) (if failed continue advancing and give another try)
 ~~~
 genage && slide your hands between your legs && touch your legs fingertips.
 shandell with a bent leg and stand up on one leg
